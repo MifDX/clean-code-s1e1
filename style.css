@@ -16,7 +16,7 @@
   width: 100%;
 }
 
-header .header__more-info {
+.header__more-info {
   font-family: fantasy, cursive;
 }
 
@@ -72,7 +72,7 @@ button:hover {
 }
 
 /* Heading */
-.main__list-title,
+
 .add-task-section__title {
   color: #333;
   font-weight: 700;
