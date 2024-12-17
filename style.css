@@ -5,6 +5,10 @@
   font-family: Lato, sans-serif;
 }
 
+.page-title {
+  display: none;
+}
+
 .header {
   width: 500px;
   margin: 0 auto;
